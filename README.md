@@ -8,7 +8,6 @@ Welcome to my portfolio website! This project showcases my work and skills as a 
 
 ## 🚀 Features
 - Bilingual support (English/French)
-- Responsive design
 - Showcase of my projects with links to GitHub
 
 ---
